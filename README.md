@@ -1,1 +1,1 @@
-# acnh-checkyool
+# acnh-checktool
